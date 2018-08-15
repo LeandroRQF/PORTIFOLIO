@@ -6,7 +6,7 @@ const Cabecalho = props => {
         <div>
             <div className='jumbotron text-center'>
                 <h1>ENGENHARIA CIVIL</h1>
-                <p>Felipe Gontijo</p>
+                <p>Leandro Ricardo Quadros Faria</p>
                 <form>
                     {/*     
                     <div style={{ padding: '20px' }} className='input-group'>
